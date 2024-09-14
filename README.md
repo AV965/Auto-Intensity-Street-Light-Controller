@@ -2,6 +2,9 @@
 
 This project implements an automatic street light controller using Arduino, LDR (Light Dependent Resistor), and RTC (Real-Time Clock). The system adjusts the brightness of the street lights based on ambient light conditions and time of the day.
 
+## Working Video
+https://github.com/AV965/Auto-Intensity-Street-Light-Controller/blob/7504c3616ed5bbc56f1df61e33a4002231ba411a/project-working-video.mp4
+
 ## How It Works
 
 - **LDR Sensor**: Detects the surrounding light and adjusts the brightness of the street lights accordingly.
